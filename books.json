@@ -1,0 +1,112 @@
+[
+	{
+		"name": "Programming Pearls",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41KHvfm4-fL._AC_UY270_.jpg",
+		"author": "E",
+		"price": "$"
+	},
+	{
+		"name": "Algorithms to Live By",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51FhJXhhK6L._AC_UY270_.jpg",
+		"author": "k",
+		"price": "2"
+	},
+	{
+		"name": "The Pragmatic Programmer",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41uPjEenkFL._AC_UY270_.jpg",
+		"author": "i",
+		"price": "."
+	},
+	{
+		"name": "Code: The Hidden Language",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/31Fb8fGBU-L._AC_UY270_.jpg",
+		"author": "m",
+		"price": "9"
+	},
+	{
+		"name": "Programming Interviews Exposed",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51csf0YWimL._AC_UY270_.jpg",
+		"author": " ",
+		"price": "9"
+	},
+	{
+		"name": "Exercises for Programmers",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/513azvyRViL._AC_UY270_.jpg",
+		"author": "O"
+	},
+	{
+		"name": "Algorithm Design Manual",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51uABdrgnrL._AC_UY270_.jpg",
+		"author": "u"
+	},
+	{
+		"name": "The Passionate Programmer",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51m3yzmDFCL._AC_UY270_.jpg",
+		"author": "y"
+	},
+	{
+		"name": "Introduction to Algorithms",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51fgDX37U7L._AC_UY270_.jpg",
+		"author": "e"
+	},
+	{
+		"name": "Coders at Work",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41rQjRyMmwL._AC_UY270_.jpg"
+	},
+	{
+		"name": "Code Complete",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51MEZDyKvZL._AC_UY270_.jpg"
+	},
+	{
+		"name": "Write Great Code",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41Rnqj%2BkGDL._AC_UY270_.jpg"
+	},
+	{
+		"name": "How Software Works",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51qJQPs4tzL._AC_UY270_.jpg"
+	},
+	{
+		"name": "Algorithms",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41SRhYah3AL._AC_UY270_.jpg"
+	},
+	{
+		"name": "How to Stop Sucking + Be Awesome Instead",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51DAEjoFNtL._AC_UY270_.jpg"
+	},
+	{
+		"name": "Clean Code",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51d1qVhmAmL._AC_UY270_.jpg"
+	},
+	{
+		"name": "Site Reliability Engineering",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51XswOmuLqL._AC_UY270_.jpg"
+	},
+	{
+		"name": "The DevOps 2.0 Toolkit",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41TWSblk7HL._AC_UY270_.jpg"
+	},
+	{
+		"name": "The Go Programming Language",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/510Qib-dSCL._AC_UY270_.jpg"
+	},
+	{
+		"name": "How Linux Works",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51Xx8GvPL%2BL._AC_UY270_.jpg"
+	},
+	{
+		"name": "Nine Algorithms That Changed the Future",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/517mmn6wLnL._AC_UY270_.jpg"
+	},
+	{
+		"name": "JavaScript: The Good Parts",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/511j6cza5bL._AC_UY270_.jpg"
+	},
+	{
+		"name": "Web Development with Node and Express",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51L%2Biq%2Bh6EL._AC_UY270_.jpg"
+	},
+	{
+		"name": "Coding Interview Ninja",
+		"imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41NF0fQRIFL._AC_UY270_.jpg"
+	}
+]
